@@ -1,0 +1,325 @@
+{
+  "brand": "Sisters Fashion",
+  "handle": "sistersfashion.official",
+  "instagram": "https://www.instagram.com/sistersfashion.official/",
+  "contactMode": "whatsapp",
+  "phone": "96181042932",
+  "displayPhone": "+961 81 042 932",
+  "publicPhoneObserved": "96181042932",
+  "hours": "Confirm current visiting hours with the boutique",
+  "followersObserved": null,
+  "followersDisplay": "105K",
+  "latestVisiblePost": "2026-11-17",
+  "researchDate": "2026-11-18",
+  "profileBio": "Women’s Fashion Boutique ✨\n📍 Ain El Remmaneh\n👗2nd page @maison_du_pyjamas\n↻ Exchange 2 Days | No Refund\n🚚 Delivery All Lebanon\n📲 DM for Orders",
+  "bioLinks": [
+    "https://wa.me/96181042932",
+    "https://maps.app.goo.gl/37hFehyUHERycKW87"
+  ],
+  "branches": [],
+  "about": "Sisters Fashion is a women’s boutique in Ain El Remmaneh. Browse photographed knitwear, coordinated looks and outer layers, then send the team a short WhatsApp enquiry to confirm the right piece for you. The public profile advertises delivery across Lebanon.",
+  "heroImage": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/native-hero.jpg",
+  "storyImage": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/01.jpg",
+  "galleryImages": [
+    "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/01.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/02.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/05.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/06.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/07.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/08.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/native-hero.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/10.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/11.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/12.jpg"
+  ],
+  "products": [
+    {
+      "id": "rose-wrap-coat",
+      "name": "Rose Wrap Coat",
+      "category": "Outer layers",
+      "description": "A pink belted wrap-style coat with a broad collar, shown over a dark outfit inside the boutique. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/01.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/Df2o9eypS9M/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "grey-teddy-look",
+      "name": "Grey Teddy Look",
+      "category": "Coordinated looks",
+      "description": "A light grey zip-front jacket with a broad soft-looking collar, styled as a tonal coordinated look. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/Dfz0yTiN3pz/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "colour-block-knit",
+      "name": "Colour Block Knit",
+      "category": "Knitwear",
+      "description": "A brown-and-cream broad striped knit shown beside a light-and-burgundy alternative. Ask for the individual colourway you prefer. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/DfubI5Ih1j0/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "contrast-sleeve-parka",
+      "name": "Contrast Sleeve Parka",
+      "category": "Outer layers",
+      "description": "A grey-and-light contrast-sleeve hooded outer layer, shown on a model in the boutique. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/DfuQ5-ABCji/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "ribbed-turtleneck-edit",
+      "name": "Ribbed Turtleneck Edit",
+      "category": "Knitwear",
+      "description": "A high-neck long-sleeved ribbed knit shown in burgundy, brown, pink, light and dark shades across the boutique images. The photos show individual options, not a bundle. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/native-hero.jpg",
+        "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/07.jpg",
+        "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/08.jpg",
+        "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/p/DfuDQBUjchS/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "taupe-mixed-panel-coat",
+      "name": "Taupe Mixed Panel Coat",
+      "category": "Outer layers",
+      "description": "A light taupe belted outer layer with contrasting light sleeves, styled with a white collar and dark lower layer. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/Dfk3D_YNnRz/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "brown-puffer-look",
+      "name": "Brown Puffer Look",
+      "category": "Outer layers",
+      "description": "A dark brown belted quilted outer layer styled with dark trousers and light shoes. Ask the boutique to confirm jacket or vest options. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/Dfkr71mNaDM/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    }
+  ],
+  "activityEvidence": {
+    "profileCheckedDate": "2026-11-18",
+    "latestVisiblePost": "2026-11-17",
+    "source": "https://www.instagram.com/sistersfashion.official/reel/Df2o9eypS9M/",
+    "recentPostDates": [
+      "2026-11-17",
+      "2026-11-16",
+      "2026-11-14",
+      "2026-11-10"
+    ],
+    "observedBy": "Root CUA public rendered Instagram profile and grid"
+  },
+  "websiteCheck": {
+    "result": "No matching official shop found in the checked current public profile links and bounded name/handle/contact searches. An unlisted website cannot be ruled out.",
+    "queries": [
+      "\"sistersfashion.official\" website",
+      "\"sisters fashion\" Lebanon website",
+      "\"sistersfashion.official\" \"81042932\""
+    ],
+    "checkedDate": "2026-11-18",
+    "sources": [
+      "https://www.instagram.com/sistersfashion.official/",
+      "https://thesistersfashionstore.com/",
+      "https://imginn.com/p/DaApuWeNWfD/"
+    ],
+    "similarNameFinding": "thesistersfashionstore.com is a different similarly named Lebanese store with contact81596397; current source Instagram bio and older post use81042932. Root profile links modal showed WhatsApp and Google Maps only."
+  },
+  "imageProvenance": [
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/905064177_18132154165889936_1794094800495449042_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NzjL7pkeEnMQ7kNvwFGQUsp&_nc_oc=Adpk1E7CXBsvmysCrNbg-MnGmLgNonJaeDrTA8jtxmuTn0slegp5sKAfX_mJln0OQMs&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=_Qd4tPp7AusOosC7ukaQeA&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRYuCTcZnjHCFRCnfPpJsbTzcuLQ9kHOQeiQwR23ToDHw&oe=6B0384E2",
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/Df2o9eypS9M/",
+      "alt": "Video by 𝓈𝒾𝓈𝓉𝑒𝓇𝓈 𝒻𝒶𝓈𝒽𝒾𝑜𝓃 𝑜𝒻𝒻𝒾𝒸𝒾𝒶𝓁 on November 17, 2026. May be an image of overcoat, parka, jacket, skirt, tights, dress and text.",
+      "width": 360,
+      "height": 640,
+      "kind": "Public native Instagram reel cover JPEG",
+      "exportMethod": "Root CUA pageAssets rendered inventory, 2026-11-18"
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/904025071_18132038362889936_2155408953614713160_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=iqNxGTlW4BIQ7kNvwFbdjJR&_nc_oc=Adp8O_CTJF0CJJHEhp4TUfPbKuGNbPkxAaKoutFQMKf7aftfyC8W9H_M4CfLr_qzIJY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=_Qd4tPp7AusOosC7ukaQeA&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRABCYKmIATShl3IB6k5Ax20lcPkGLcj878LDpFSlJYUg&oe=6B03A873",
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/Dfz0yTiN3pz/",
+      "alt": "Video by 𝓈𝒾𝓈𝓉𝑒𝓇𝓈 𝒻𝒶𝓈𝒽𝒾𝑜𝓃 𝑜𝒻𝒻𝒾𝒸𝒾𝒶𝓁 on November 16, 2026. May be an image of jacket, top, dress, parka and text.",
+      "width": 360,
+      "height": 640,
+      "kind": "Public native Instagram reel cover JPEG",
+      "exportMethod": "Root CUA pageAssets rendered inventory, 2026-11-18"
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/896777859_1162155526766913_3912157340018503815_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=q-TZAzWIBsIQ7kNvwFn8dTk&_nc_oc=AdrPVrz1aUWur4Z7GZUPGpyIXYv_unBVAGkX4dSoGo2c5QnO03pqt1fLgeVy6PWoO5Q&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=_Qd4tPp7AusOosC7ukaQeA&_nc_ss=7b689&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRrthWP80mP0xB81sklje5mH_QL0MGuz_uc_78NymG1YA&oe=6B039A56",
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/DfubI5Ih1j0/",
+      "alt": "Video by 𝓈𝒾𝓈𝓉𝑒𝓇𝓈 𝒻𝒶𝓈𝒽𝒾𝑜𝓃 𝑜𝒻𝒻𝒾𝒸𝒾𝒶𝓁 on November 14, 2026. May be an image of sweater, top, cardigan, turtleneck, outerwear and text.",
+      "width": 361,
+      "height": 640,
+      "kind": "Public native Instagram reel cover JPEG",
+      "exportMethod": "Root CUA pageAssets rendered inventory, 2026-11-18"
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/902141805_18131757727889936_7724873789868670094_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=i5vTEZ3NKSUQ7kNvwFmHobB&_nc_oc=AdqlrnqTotinOnfuhh8FNqzi6hUThDiH3t-_1xLzyXepoUG46mUgKshUTPjv7e08O6k&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=_Qd4tPp7AusOosC7ukaQeA&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQT5p_FFumaBLQoW5j823BmYgJwpfAGZVdWsKdNViXkafQ&oe=6B03A216",
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/DfuQ5-ABCji/",
+      "alt": "Video by 𝓈𝒾𝓈𝓉𝑒𝓇𝓈 𝒻𝒶𝓈𝒽𝒾𝑜𝓃 𝑜𝒻𝒻𝒾𝒸𝒾𝒶𝓁 on November 14, 2026. May be an image of sweatshirt, jacket, top, parka, coat, fleece and text.",
+      "width": 360,
+      "height": 640,
+      "kind": "Public native Instagram reel cover JPEG",
+      "exportMethod": "Root CUA pageAssets rendered inventory, 2026-11-18"
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/902189442_18131767408889936_667168696466088503_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ZIm7lrpzqHkQ7kNvwEmNGad&_nc_oc=AdqP-cBCh0j4n_4vVoC-5EaC_6UEzEOeFhUNNT-zbnOXTipJTYbpqpru2IHuTwwGOvI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=_Qd4tPp7AusOosC7ukaQeA&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRkvKLnfa2XfDk7a9z6C6c0U-SVu550FhitDVdzae0I-Q&oe=6B038AAC",
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/DfuN3EnN6HB/",
+      "alt": "Video by 𝓈𝒾𝓈𝓉𝑒𝓇𝓈 𝒻𝒶𝓈𝒽𝒾𝑜𝓃 𝑜𝒻𝒻𝒾𝒸𝒾𝒶𝓁 on November 14, 2026. May be an image of fleece, knit, clothes hanger, sweater, top, turtleneck, cardigan and text.",
+      "width": 360,
+      "height": 640,
+      "kind": "Public native Instagram reel cover JPEG",
+      "exportMethod": "Root CUA pageAssets rendered inventory, 2026-11-18"
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/894602579_1487025493606496_8216213399674910201_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=M24dRfEIKQoQ7kNvwF-uTBy&_nc_oc=AdpGdkW6qjdHPj0gFyLFBbviI1Xv5NbKnFR-FHM9VzS8hOjhEGwWvX6qcWCD5Pgc3YM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=_Qd4tPp7AusOosC7ukaQeA&_nc_ss=7b689&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSY3_yQABJlUwS4mvcFUmfM0uMmofyrw7PSVVRfHL3M4A&oe=6B037F07",
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/DfuEg5Ht-NT/",
+      "alt": "Video by 𝓈𝒾𝓈𝓉𝑒𝓇𝓈 𝒻𝒶𝓈𝒽𝒾𝑜𝓃 𝑜𝒻𝒻𝒾𝒸𝒾𝒶𝓁 on November 14, 2026. May be an image of cardigan, turtleneck, fleece, clothes hanger, top and text.",
+      "width": 361,
+      "height": 640,
+      "kind": "Public native Instagram reel cover JPEG",
+      "exportMethod": "Root CUA pageAssets rendered inventory, 2026-11-18"
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/native-hero.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/900922338_18131758066889936_5164614793099748995_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zUXwwPLHCZMQ7kNvwG6Xz0Y&_nc_oc=AdqpAT45P09t3WHuI8-Nm5M1SDINn1nM4RUQuTUoWKgRRweWpQ0Wyjp7ECwLvgo65XQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=_Qd4tPp7AusOosC7ukaQeA&_nc_ss=7b689&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQzjL7LhZrWRQKv0ZDZ1-sAJpWCJN-dyLMq-wV280JK2g&oe=6B03B5D2",
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/p/DfuDQBUjchS/",
+      "alt": "Photo by 𝓈𝒾𝓈𝓉𝑒𝓇𝓈 𝒻𝒶𝓈𝒽𝒾𝑜𝓃 𝑜𝒻𝒻𝒾𝒸𝒾𝒶𝓁 on November 14, 2026.",
+      "width": 530,
+      "height": 640,
+      "kind": "Public native Instagram photo",
+      "exportMethod": "Root CUA pageAssets rendered inventory, 2026-11-18"
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/901278564_18131757847889936_6110110986021065541_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Gqap238p0BkQ7kNvwFKOHaq&_nc_oc=Adr5tHrfujCBZOLdsjAPJ__eA86dZZP0cD-3N74DWTdtoApKe3qqRX1YsUtS3j0Qf0Q&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=_Qd4tPp7AusOosC7ukaQeA&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQScuRVj0yZ4B2FXCXXNRnsyC2JF_xLGmYq0uEuJve2uSA&oe=6B03A561",
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/DfuCsV4NtWm/",
+      "alt": "Video by 𝓈𝒾𝓈𝓉𝑒𝓇𝓈 𝒻𝒶𝓈𝒽𝒾𝑜𝓃 𝑜𝒻𝒻𝒾𝒸𝒾𝒶𝓁 on November 14, 2026. May be an image of sweater, fleece, knit, cardigan and text.",
+      "width": 360,
+      "height": 640,
+      "kind": "Public native Instagram reel cover JPEG",
+      "exportMethod": "Root CUA pageAssets rendered inventory, 2026-11-18"
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/899129344_18131372878889936_4341142354580063712_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=FSmYuZ5h2DYQ7kNvwGSAm7t&_nc_oc=AdoF5_gXfOBq1lDYc-Z-7ECrPWn_EIZRXD4D644a0zul7RMV5LWhD8FgJLn1a4M185g&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=_Qd4tPp7AusOosC7ukaQeA&_nc_ss=7b689&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRZaGpZ_rkmEg1HqYKRzCxP9AcmUSvkVXwWIqiBbIIUIQ&oe=6B03ABB5",
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/Dfk3D_YNnRz/",
+      "alt": "Video by 𝓈𝒾𝓈𝓉𝑒𝓇𝓈 𝒻𝒶𝓈𝒽𝒾𝑜𝓃 𝑜𝒻𝒻𝒾𝒸𝒾𝒶𝓁 on November 10, 2026. May be an image of parka, overskirt, coat and text.",
+      "width": 360,
+      "height": 640,
+      "kind": "Public native Instagram reel cover JPEG",
+      "exportMethod": "Root CUA pageAssets rendered inventory, 2026-11-18"
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/901328388_18131365627889936_2003002255262514694_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=eHSpIcRCZQ4Q7kNvwFfK_47&_nc_oc=AdppE9zUDWp16rbZgxFYvfLIs3S7K2AxZA0ItcAlKFoA6wTnHFOmdHFZLZ7fyCwIMQQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=_Qd4tPp7AusOosC7ukaQeA&_nc_ss=7b689&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSxoON79GpfPhyZNDn8o_apBIgap1bUXlDu9kzG48goxQ&oe=6B039581",
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/reel/Dfkr71mNaDM/",
+      "alt": "Video by 𝓈𝒾𝓈𝓉𝑒𝓇𝓈 𝒻𝒶𝓈𝒽𝒾𝑜𝓃 𝑜𝒻𝒻𝒾𝒸𝒾𝒶𝓁 on November 10, 2026. May be a selfie of sweatshirt, clothes hanger, parka, jacket, coat and text.",
+      "width": 360,
+      "height": 640,
+      "kind": "Public native Instagram reel cover JPEG",
+      "exportMethod": "Root CUA pageAssets rendered inventory, 2026-11-18"
+    },
+    {
+      "alt": "Photo by 𝓈𝒾𝓈𝓉𝑒𝓇𝓈 𝒻𝒶𝓈𝒽𝒾𝑜𝓃 𝑜𝒻𝒻𝒾𝒸𝒾𝒶𝓁 on November 14, 2026. May be an image of sweater, fleece, knit, cardigan, turtleneck and text.",
+      "height": 1600,
+      "src": "https://instagram.fbey15-1.fna.fbcdn.net/v/t51.82787-15/900922338_18131758066889936_5164614793099748995_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDE3MjgxNTY1Nzc4OTgxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTMyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zUXwwPLHCZMQ7kNvwG6Xz0Y&_nc_oc=AdqpAT45P09t3WHuI8-Nm5M1SDINn1nM4RUQuTUoWKgRRweWpQ0Wyjp7ECwLvgo65XQ&_nc_zt=23&_nc_ht=instagram.fbey15-1.fna&_nc_gid=zlTNR7T2CUoLq1l5JRmVdQ&_nc_ss=7b689&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQtR9kaKfyjjghDk6uK8d7p8aqlWHrD9Z37TN9BwDO_-Q&oe=6B03B5D2",
+      "width": 1325,
+      "path": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/native-hero.jpg",
+      "sourcePost": "https://www.instagram.com/sistersfashion.official/p/DfuDQBUjchS/",
+      "sourceUrl": "https://instagram.fbey15-1.fna.fbcdn.net/v/t51.82787-15/900922338_18131758066889936_5164614793099748995_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDE3MjgxNTY1Nzc4OTgxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTMyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zUXwwPLHCZMQ7kNvwG6Xz0Y&_nc_oc=AdqpAT45P09t3WHuI8-Nm5M1SDINn1nM4RUQuTUoWKgRRweWpQ0Wyjp7ECwLvgo65XQ&_nc_zt=23&_nc_ht=instagram.fbey15-1.fna&_nc_gid=zlTNR7T2CUoLq1l5JRmVdQ&_nc_ss=7b689&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQtR9kaKfyjjghDk6uK8d7p8aqlWHrD9Z37TN9BwDO_-Q&oe=6B03B5D2"
+    }
+  ],
+  "imageNotes": [
+    "Images are public native Instagram stills or public JPEG Reel cover images. No video frames extracted and no synthetic product imagery.",
+    "Excluded03.jpg wide store/people shot and04.jpg meme/promotion poster from app content.",
+    "Some public covers display historical15,27 or29USD captions. Demo catalogue prices are null; current price and availability must be confirmed by the owner. Do not infer fibre composition from the word wool visible in source captions.",
+    "The selected native carousel photo09.jpg is the provisional hero; root may enhance with its native full resolution export."
+  ],
+  "sourcePriceObservations": [
+    {
+      "image": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/01.jpg",
+      "visibleAmount": 29,
+      "currency": "USD"
+    },
+    {
+      "image": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/02.jpg",
+      "visibleAmount": 27,
+      "currency": "USD"
+    },
+    {
+      "image": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/06.jpg",
+      "visibleAmount": 29,
+      "currency": "USD"
+    },
+    {
+      "image": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/07.jpg",
+      "visibleAmount": 15,
+      "currency": "USD"
+    },
+    {
+      "image": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/08.jpg",
+      "visibleAmount": 15,
+      "currency": "USD"
+    },
+    {
+      "image": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/native-hero.jpg",
+      "visibleAmount": 15,
+      "currency": "USD"
+    },
+    {
+      "image": "C:/Projects/prospect-research/nov17-fashion-build3/sisters-fashion/assets/11.jpg",
+      "visibleAmount": 29,
+      "currency": "USD"
+    }
+  ],
+  "designRecommendation": {
+    "palette": "Burgundy, dusty rose and warm white",
+    "photoFit": "portrait",
+    "heroRecommendation": "Use native full-size burgundy knit09 as hero; narrow360px reels require contain in product cards rather than wide crops."
+  },
+  "nativeHeroUpgrade": "Equivalent grid photo replaced with native full-size public still; no image synthesis or video extraction."
+}

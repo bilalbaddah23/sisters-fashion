@@ -1,0 +1,148 @@
+{
+  "brand": "Sisters Fashion",
+  "contactMode": "whatsapp",
+  "phone": "96181042932",
+  "displayPhone": "+961 81 042 932",
+  "instagram": "https://www.instagram.com/sistersfashion.official/",
+  "hours": "Confirm current visiting hours with the boutique",
+  "hero": "/images/photo-9ca14d292ea2ce7c.jpg",
+  "story": "/images/photo-7d9e1ef8ffe485cb.jpg",
+  "galleryImages": [
+    "/images/photo-7d9e1ef8ffe485cb.jpg",
+    "/images/photo-dc0155c36a4421da.jpg",
+    "/images/photo-8e6ba6b0dc825bc0.jpg",
+    "/images/photo-d34120da190d5e60.jpg",
+    "/images/photo-8cfe0da034d2c355.jpg",
+    "/images/photo-5fd50c0ab8fddaf5.jpg",
+    "/images/photo-9ca14d292ea2ce7c.jpg",
+    "/images/photo-e3f459a06433b90e.jpg",
+    "/images/photo-5356fa997d2c2430.jpg",
+    "/images/photo-85ad277072350839.jpg"
+  ],
+  "products": [
+    {
+      "id": "rose-wrap-coat",
+      "name": "Rose Wrap Coat",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A pink belted wrap-style coat with a broad collar, shown over a dark outfit inside the boutique. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-7d9e1ef8ffe485cb.jpg"
+      ],
+      "source": "https://www.instagram.com/sistersfashion.official/reel/Df2o9eypS9M/"
+    },
+    {
+      "id": "grey-teddy-look",
+      "name": "Grey Teddy Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light grey zip-front jacket with a broad soft-looking collar, styled as a tonal coordinated look. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-dc0155c36a4421da.jpg"
+      ],
+      "source": "https://www.instagram.com/sistersfashion.official/reel/Dfz0yTiN3pz/"
+    },
+    {
+      "id": "colour-block-knit",
+      "name": "Colour Block Knit",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown-and-cream broad striped knit shown beside a light-and-burgundy alternative. Ask for the individual colourway you prefer. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-8e6ba6b0dc825bc0.jpg"
+      ],
+      "source": "https://www.instagram.com/sistersfashion.official/reel/DfubI5Ih1j0/"
+    },
+    {
+      "id": "contrast-sleeve-parka",
+      "name": "Contrast Sleeve Parka",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A grey-and-light contrast-sleeve hooded outer layer, shown on a model in the boutique. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-d34120da190d5e60.jpg"
+      ],
+      "source": "https://www.instagram.com/sistersfashion.official/reel/DfuQ5-ABCji/"
+    },
+    {
+      "id": "ribbed-turtleneck-edit",
+      "name": "Ribbed Turtleneck Edit",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A high-neck long-sleeved ribbed knit shown in burgundy, brown, pink, light and dark shades across the boutique images. The photos show individual options, not a bundle. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-9ca14d292ea2ce7c.jpg",
+        "/images/photo-8cfe0da034d2c355.jpg",
+        "/images/photo-5fd50c0ab8fddaf5.jpg",
+        "/images/photo-e3f459a06433b90e.jpg"
+      ],
+      "source": "https://www.instagram.com/sistersfashion.official/p/DfuDQBUjchS/"
+    },
+    {
+      "id": "taupe-mixed-panel-coat",
+      "name": "Taupe Mixed Panel Coat",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light taupe belted outer layer with contrasting light sleeves, styled with a white collar and dark lower layer. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-5356fa997d2c2430.jpg"
+      ],
+      "source": "https://www.instagram.com/sistersfashion.official/reel/Dfk3D_YNnRz/"
+    },
+    {
+      "id": "brown-puffer-look",
+      "name": "Brown Puffer Look",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark brown belted quilted outer layer styled with dark trousers and light shoes. Ask the boutique to confirm jacket or vest options. Confirm the current price, exact garment, colour, fit and availability with Sisters Fashion. Separate garments and styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-85ad277072350839.jpg"
+      ],
+      "source": "https://www.instagram.com/sistersfashion.official/reel/Dfkr71mNaDM/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}

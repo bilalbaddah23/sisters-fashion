@@ -1,0 +1,132 @@
+[
+  {
+    "file": "/images/photo-7d9e1ef8ffe485cb.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\sisters-fashion\\assets\\01.jpg",
+    "sha256": "a74a3007769dac07c6e0bfdae012c3596e1388cee5a1ff02ff11dbaee8728aba",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-dc0155c36a4421da.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\sisters-fashion\\assets\\02.jpg",
+    "sha256": "00a1f0ed78b2f7f2d4b211d946e11049b36d6bf32fa8976908504f1113a89642",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-8e6ba6b0dc825bc0.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\sisters-fashion\\assets\\05.jpg",
+    "sha256": "6403d83568b8d4ce26ac6e7796a11d20ed0e33725fc81eac10743859058ff77f",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-d34120da190d5e60.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\sisters-fashion\\assets\\06.jpg",
+    "sha256": "e412094092ecd821f3972112827cb4a031ce9cfc2b60564fe8defe0711432556",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-9ca14d292ea2ce7c.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\sisters-fashion\\assets\\native-hero.jpg",
+    "sha256": "92213c6facac681e8f5198b2bb9c62d4ae64155f5f7dc9355e5635d9d66b7979",
+    "originalDimensions": [
+      1325,
+      1600
+    ],
+    "webDimensions": [
+      1325,
+      1600
+    ]
+  },
+  {
+    "file": "/images/photo-8cfe0da034d2c355.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\sisters-fashion\\assets\\07.jpg",
+    "sha256": "c6891538eca05e633799314e2fc52113182cfadc65475cb02b3d493e056b96e8",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-5fd50c0ab8fddaf5.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\sisters-fashion\\assets\\08.jpg",
+    "sha256": "a331818f36cca801151d436ce2af5e7e90691460b5638f338600401af52f5b39",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-e3f459a06433b90e.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\sisters-fashion\\assets\\10.jpg",
+    "sha256": "8d120466cb1a65fdcf469e78e3b89e7ad9e7776ecf5cf1d7686503b9e3c8b170",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-5356fa997d2c2430.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\sisters-fashion\\assets\\11.jpg",
+    "sha256": "e46675a1c942064c3b0a45ba0dd8ad007e81978d112ff6978fe95e819e9c4715",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-85ad277072350839.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\sisters-fashion\\assets\\12.jpg",
+    "sha256": "8a2b0f8674dac76e8b3eeb76fc2b6fd0f8350a1f35b70c29319fb87367b01d38",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  }
+]
